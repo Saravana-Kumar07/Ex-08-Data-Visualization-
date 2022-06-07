@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE:
-Developed by: Saravana Kumar S
-Register no: 212221230088
+### Developed by: Saravana Kumar S
+### Register no: 212221230088
 ```python
 import pandas as pd
 df=pd.read_csv("Superstore.csv")
